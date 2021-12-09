@@ -1,0 +1,42 @@
+To use this Prefab monument please install 
+RUST EDIT DLL 
+https://github.com/k1lly0u/Oxide.Ext.RustEdit
+ 
+Install to your Dedicated Data / Managed Folder
+
+
+
+
+====================================
+NHapis Remastered
+====================================
+This map is for Free and not for Sale, It is a Remastered Version of Hapis
+I have spent months Remaking. You can use any prefabs in this map for your server but you cannot resell them 
+if I find you you will be banned. 
+
+
+----------------------------------------------------------------------------------------------
+To add Prefabs,Custom Monuments to this map, just install the prefab files to Rust Edit / Custom Prefabs Folder!
+Plop it down and apply the heights, splats, biomes, topology and alpha. and you should be good to go. 
+Id recomend not adding more then 45k total prefabs to this map as it can cause issues with fps. I am in
+no way responsible for anything you break Redownload the map and try again. 
+
+
+This Map is an update to the Hapis, we've come a ways sence the first installment of Hapis, 
+Thanks to Alistar and Petur for creating it, If it wern't for there hard work and dedication I may never
+have gotten into Custom Map Creation.Hapis is my first and will always be my Favorite Custom Map.
+I have Remade it to the Best of my abilities and have tried to customize it to my own ideas. 
+
+
+
+======================================================================
+A Big Thankyou to All who have Helped me on My Journey of Map creation and Rust Edit!!
+======================================================================
+This map is Unlocked, No Password Required and if freely editable, but you ARE NOT ALLOWED TO 
+RESELL ANY CONTENT FROM THIS MAP PERIOD.
+
+
+======================================================================
+Special Thanks to Stoner Jesus for his Server Tool in giving me a better local host option for testing my map
+Aswell as the work he did with me going over the map and helping me with Lighting and IO!!
+======================================================================
